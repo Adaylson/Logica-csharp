@@ -1,0 +1,14 @@
+C:\Users\adaylson.aevaristo\source\repos\Desafio1\exer1\bin\Debug\net8.0\exer1.exe
+C:\Users\adaylson.aevaristo\source\repos\Desafio1\exer1\bin\Debug\net8.0\exer1.deps.json
+C:\Users\adaylson.aevaristo\source\repos\Desafio1\exer1\bin\Debug\net8.0\exer1.runtimeconfig.json
+C:\Users\adaylson.aevaristo\source\repos\Desafio1\exer1\bin\Debug\net8.0\exer1.dll
+C:\Users\adaylson.aevaristo\source\repos\Desafio1\exer1\bin\Debug\net8.0\exer1.pdb
+C:\Users\adaylson.aevaristo\source\repos\Desafio1\exer1\obj\Debug\net8.0\exer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adaylson.aevaristo\source\repos\Desafio1\exer1\obj\Debug\net8.0\exer1.AssemblyInfoInputs.cache
+C:\Users\adaylson.aevaristo\source\repos\Desafio1\exer1\obj\Debug\net8.0\exer1.AssemblyInfo.cs
+C:\Users\adaylson.aevaristo\source\repos\Desafio1\exer1\obj\Debug\net8.0\exer1.csproj.CoreCompileInputs.cache
+C:\Users\adaylson.aevaristo\source\repos\Desafio1\exer1\obj\Debug\net8.0\exer1.dll
+C:\Users\adaylson.aevaristo\source\repos\Desafio1\exer1\obj\Debug\net8.0\refint\exer1.dll
+C:\Users\adaylson.aevaristo\source\repos\Desafio1\exer1\obj\Debug\net8.0\exer1.pdb
+C:\Users\adaylson.aevaristo\source\repos\Desafio1\exer1\obj\Debug\net8.0\exer1.genruntimeconfig.cache
+C:\Users\adaylson.aevaristo\source\repos\Desafio1\exer1\obj\Debug\net8.0\ref\exer1.dll
