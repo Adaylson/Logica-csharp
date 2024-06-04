@@ -12,3 +12,4 @@ C:\Users\adaylson.aevaristo\source\repos\Desafio1\exer1\obj\Debug\net8.0\refint\
 C:\Users\adaylson.aevaristo\source\repos\Desafio1\exer1\obj\Debug\net8.0\exer1.pdb
 C:\Users\adaylson.aevaristo\source\repos\Desafio1\exer1\obj\Debug\net8.0\exer1.genruntimeconfig.cache
 C:\Users\adaylson.aevaristo\source\repos\Desafio1\exer1\obj\Debug\net8.0\ref\exer1.dll
+C:\Users\adaylson.aevaristo\source\repos\Desafio1\exer1\obj\Debug\net8.0\exer1.sourcelink.json
